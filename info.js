@@ -38,6 +38,11 @@
  * conflitto: lo mette insieme pero con conflitti
  * soluzione: fare un pull Request e chiede la revisione delle persone che ha lavorato per sapere con quale versione rimanere
  *
+ * best pratices
+ * quando finisci un lavoro/task (una volta fatto il merge), devi uccidere il branch, cancella il branch
+ * git branch -D nomeBranch:
  *
- *
+ * repository:
+ * local: il tuo pc
+ * remote: github o gitlab
  */
