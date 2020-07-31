@@ -1,5 +1,5 @@
 /**
- * se stai nle push di origine
+ * se stai nel push di origine
  * git push
  *
  * se hai creato un branch figlio
